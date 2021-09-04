@@ -1,13 +1,8 @@
-# Federated Learning - Server
+# Federated Learning framework - Server from nanara1119
+- using Django
+- add estimation stage in data preprocessing
+- share statistical information with all clients
 
-# Deploy to AWS 
-Beanstalk to zip File  
-
-# install
-1. install Python 3.7<br> 
-2. pip install --user virtualenv<br>
-3. python -m venv ./venv<br>
-4. .\venv\Scripts\activate<br>
 5. pip install -r requirements.txt<br>
 
 # run
