@@ -3,8 +3,6 @@
 - add estimation stage in data preprocessing
 - share statistical information with all clients
 
-5. pip install -r requirements.txt<br>
-
 # run
 1. python manage.py runserver
 2. http://127.0.0.1:8000/
