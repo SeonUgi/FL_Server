@@ -28,6 +28,8 @@ urlpatterns = [
     path('client_count/<int:count>', views.client_count),
     path('weight', views.weight),
     path('weight/', views.weight),
+    path('estimation', views.estimation),
+    path('estimation/', views.estimation),
     path('reset', views.reset),
     path('reset/', views.reset),
     path('params', views.all_params),
